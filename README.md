@@ -18,4 +18,4 @@ CPU scheduler visualizer on visual studio with [allegro](https://liballeg.org/)
 
 # Notice
 
-Currently works only in debugging mode in MSVC.
+Currently works only if run in MSVC
