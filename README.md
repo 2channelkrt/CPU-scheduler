@@ -3,7 +3,7 @@
 CPU scheduler visualizer on visual studio with [allegro](https://liballeg.org/)
 
 # How To Use
-1. Congigure CUSTOMVALUE.h and run!
+1. Configure CUSTOMVALUE.h and run!
 
 ## custom values
 ![alt_text](https://github.com/2channelkrt/CPU-scheduler/blob/master/value_example.PNG)
