@@ -18,4 +18,4 @@ CPU scheduler visualizer on visual studio with [allegro](https://liballeg.org/)
 
 # Notice
 
-Currently works only if run in MSVC
+Last time I checked, this runs only if run under Microsoft Visual Studio. Probably static library linking problem, but my priority is low for this issue.
